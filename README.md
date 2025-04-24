@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Hathisa!
 
-🎓 I'm currently pursuing a Higher National Diploma in ICT at College of Technology - Badulla  
+🎓 I'm currently pursuing a National Diploma in ICT at College of Technology - Badulla  
 💻 Passionate about building real-world software and web solutions  
-🌱 Exploring Angular, VB.NET, SQL, and mobile app development with Bolt AI
+🌱 Exploring Angular, VB.NET, SQL, and mobile app development with AI
 
 ---
 
