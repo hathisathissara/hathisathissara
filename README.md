@@ -32,8 +32,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![Hathisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hathisathissara&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hathisathissara&layout=compact&theme=radical)
 
