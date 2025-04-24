@@ -8,5 +8,5 @@ Welcome to my profile!
 
 
 ## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/hathisa-thissara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://lk.linkedin.com/in/hathisa-thissara)
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-brightgreen?style=for-the-badge)](http://hathisathissara.unaux.com/?i=1)
