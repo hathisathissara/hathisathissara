@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hathisa
 Welcome to my profile!
 
-- 🎓 HND in ICT
+- 🎓 Diploma in ICT
 - 💻 Coding in Angular, VB.NET, and more
 - 🌱 Currently working on a music track selling website
 
