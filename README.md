@@ -8,25 +8,35 @@
 
 ## 🚀 Projects I'm Proud Of
 
-- 🎵 **Music Track Selling Website**  
-  A digital platform to sell and deliver music tracks automatically after payment
+### 🏫 School Management System  
+- **Tech Stack:** 🖥️ VB.NET 
+- **Features:** Student management, teacher records, marks & attendance  
+- **Highlights:** Multiple forms with CRUD operations  
 
-- 🏐 **Badulla ATI Volleyball Tournament Website**  
-  Designed to share event info and encourage student participation
+### 📖 Library Management System  
+- **Tech Stack:** 🌐 HTML, 🎨 Bootstrap, 🐘 PHP, 🗄️ MySQL  
+- **Features:** Book catalog, student register/login, borrow & return system  
+- **Highlights:** Guest register form when borrowing without login  
 
-- 📚 **School Management System**  
-  Built using VB.NET with custom forms for students, staff, and billing
+### 🎵 Music Track Selling Website  
+- **Tech Stack:** ⚙️ Node.js, 🚀 Express, 🗄️ PostgreSQL/MongoDB, 💳 Stripe  
+- **Features:** User authentication, track purchase, auto digital delivery  
+- **Note:** Also developed a PHP + MySQL version with admin & user dashboards  
 
-- 🎓 **Educational NGO Website**  
-  Supports equal access to education for Sri Lankan students
+### 🎁 Gift Shop Order Processing System  
+- **Tech Stack:** 🐘 PHP, 🗄️ MySQL
+- **Features:** Item packages, order calculation, delivery fees, WhatsApp order confirmation  
 
+### 👨‍💻 Portfolio Website  
+- **Tech Stack:** 🌐 HTML, 🎨 CSS, ⚡ JavaScript  
+- **Features:** Personal portfolio with projects & skills showcase  
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, Angular  
+- **Frontend:** HTML, CSS,React 
 - **Backend:** VB.NET, SQL  
-- **Tools:** GitHub, Visual Studio, Bolt AI, Canva
+- **Tools:** GitHub, Visual Studio
 
 ---
 
