@@ -19,7 +19,7 @@
 - **Highlights:** Guest register form when borrowing without login  
 
 ### 🎵 Music Track Selling Website  
-- **Tech Stack:** ⚙️ Node.js, 🚀 Express, 🗄️ PostgreSQL/MongoDB, 💳 Stripe  
+- **Tech Stack:**  🐘 PHP, 🎨 Bootstrap, 🗄️ MySql  
 - **Features:** User authentication, track purchase, auto digital delivery  
 - **Note:** Also developed a PHP + MySQL version with admin & user dashboards  
 
